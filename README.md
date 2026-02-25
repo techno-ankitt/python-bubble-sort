@@ -33,7 +33,8 @@ Open your terminal or command prompt and run the advanced version:
 Bash
 python python-bubble-sort-v2.py
 
-Time Complexity AnalysisThe algorithm's efficiency is measured as follows:Best Case: $O(n)$ (When the array is already sorted, thanks to the optimization flag).Average/Worst Case: $O(n^2)$.
+Time Complexity AnalysisThe algorithm's efficiency is measured as follows: **Best Case:** $O(n)$ (When the array is already sorted, thanks to the optimization flag). 
+**Average/Worst Case:** $O(n^2)$.
 
 **Author**
 Ankit Suthar
